@@ -1,5 +1,15 @@
 # BinaRena-manuscript
-These are scripts used to build the input files used by [BinaRena](https://github.com/qiyunlab/binarena), from the paper XXX.
+These are scripts used in the analysis of the datasets used for validation of [BinaRena](https://github.com/qiyunlab/binarena), from the paper XXX.
 
-## File build for MAQ dataset 
+### MAQ and TD metagenomes
 
+ - MAQ_tsv_build.R
+ - TD_tsv_build.R
+ 
+These two scripts are very similar and essentially merge contig descriptors form various programs (contig-to-bin assingmetns, kraken output, dimensionally reduced kmer frequency, etc.). 
+
+### CAMI 2 Marine metagenomes
+
+  - marine_tsv_build.R
+ 
+ This script merges contig-to-bin assingments, coverage, and tetranucleotide frequencies (4kmer). It then runs a principal component analysis on a matirx of 4kmer.  
