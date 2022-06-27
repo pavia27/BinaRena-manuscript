@@ -6,7 +6,7 @@ These are scripts used in the analysis of the datasets used for validation of [B
  - MAQ_tsv_build.R
  - TD_tsv_build.R
  
-These two scripts are very similar and essentially merge contig descriptors form various programs (contig-to-bin assingmetns, kraken output, dimensionally reduced kmer frequency, etc.). 
+These two scripts are very similar and essentially merge contig descriptors form various programs (contig-to-bin assingmetns, kraken output, dimensionally reduced kmer frequency, etc.). The td folder also provides a walkthrough for procesing sample #76
 
 ### CAMI 2 Marine metagenomes
 
