@@ -15,9 +15,11 @@ Citation:
 Data files:
 
 - 76.tsv.xz: Sample #76, contig properties
+- 76.bins.tsv: : Sample #76, lists of contigs of investigated bins
 - 76.Enterobacteriaceae.map: Sample #76, mapping of contigs to Enterobacteria-
   ceae specific marker genes
 - 50076.tsv.xz: Sample #50076, contig properties
+- 50076.bins.tsv: : Sample #50076, lists of contigs of investigated bins
 - 50076.Escherichia_coli.map Sample #50076, mapping of contigs to Escherichia
   coli specific marker genes
 - Enterobacteriaceae.lst: CheckM marker gene list for family Enterobacteriaceae
