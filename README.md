@@ -1,5 +1,5 @@
 # BinaRena-manuscript
-These are scripts used in the analysis of the datasets used for validation of [BinaRena](https://github.com/qiyunlab/binarena), from the paper XXX.
+These are scripts used in the analysis of the datasets used for validation of [BinaRena](https://github.com/qiyunlab/binarena), which is detailed in our [biorxiv paper](https://www.biorxiv.org/content/10.1101/2022.06.28.498025v1).
 
 ### MAQ and TD metagenomes
 
